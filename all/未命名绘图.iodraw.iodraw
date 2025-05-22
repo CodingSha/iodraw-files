@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gRI-8oXtrMnG53g0W2ab-1" value="基础设施层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1378" y="20" width="285" height="137" as="geometry" />
+          <mxGeometry x="1286" y="600" width="285" height="137" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-2" value="数据处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="20" width="301" height="137" as="geometry" />
+          <mxGeometry x="935" y="600" width="301" height="137" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-3" value="模型开发层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="676" y="20" width="301" height="137" as="geometry" />
+          <mxGeometry x="584" y="600" width="301" height="137" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-4" value="应用服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="304" height="137" as="geometry" />
+          <mxGeometry x="230" y="600" width="304" height="137" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-5" value="用户交互层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="30" width="252" height="137" as="geometry" />
@@ -23,16 +23,16 @@
           <mxGeometry x="45" y="55" width="202" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-7" value="业务逻辑引擎 / 微服务集群 / API网关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="347" y="55" width="254" height="67" as="geometry" />
+          <mxGeometry x="255" y="635" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-8" value="机器学习平台 / 模型仓库 / 实验管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="701" y="55" width="251" height="67" as="geometry" />
+          <mxGeometry x="609" y="635" width="251" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-9" value="数据湖 / 特征工程工具链 / 标注平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1052" y="55" width="251" height="67" as="geometry" />
+          <mxGeometry x="960" y="635" width="251" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-10" value="云计算资源 / 容器集群 / 分布式存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1403" y="55" width="235" height="67" as="geometry" />
+          <mxGeometry x="1311" y="635" width="235" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gRI-8oXtrMnG53g0W2ab-7" target="gRI-8oXtrMnG53g0W2ab-8">
           <mxGeometry relative="1" as="geometry">
