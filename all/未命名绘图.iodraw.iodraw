@@ -17,7 +17,7 @@
           <mxGeometry x="230" y="600" width="304" height="137" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-5" value="用户交互层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="252" height="137" as="geometry" />
+          <mxGeometry x="20" y="10" width="560" height="157" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-6" value="Web前端 / 移动端 / API接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="55" width="202" height="67" as="geometry" />
