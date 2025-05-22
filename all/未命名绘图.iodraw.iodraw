@@ -20,7 +20,7 @@
           <mxGeometry x="20" y="10" width="560" height="157" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-6" value="Web前端 / 移动端 / API接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="55" width="465" height="67" as="geometry" />
+          <mxGeometry x="45" y="55" width="245" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-7" value="业务逻辑引擎 / 微服务集群 / API网关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="255" y="635" width="254" height="67" as="geometry" />
@@ -48,6 +48,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gRI-8oXtrMnG53g0W2ab-15" value="Web前端 / 移动端 / API接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="55" width="245" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
