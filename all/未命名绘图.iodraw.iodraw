@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-15" value="Web前端 / 移动端 / API接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="724" y="145" width="245" height="67" as="geometry" />
+          <mxGeometry x="710" y="390" width="245" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-16" value="Web前端 / 移动端 / API接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1024" y="145" width="245" height="67" as="geometry" />
