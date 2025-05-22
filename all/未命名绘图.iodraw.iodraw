@@ -19,7 +19,7 @@
         <mxCell id="gRI-8oXtrMnG53g0W2ab-5" value="用户交互层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="100" width="900" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="gRI-8oXtrMnG53g0W2ab-6" value="Web前端 / 移动端 / API接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gRI-8oXtrMnG53g0W2ab-6" value="Web前端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="439" y="145" width="245" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gRI-8oXtrMnG53g0W2ab-7" value="业务逻辑引擎 / 微服务集群 / API网关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
